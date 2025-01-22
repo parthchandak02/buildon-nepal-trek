@@ -1,3 +1,15 @@
+---
+title: 'BuildOn Schoolhouse Sherpas - Trek'
+excerpt: 'A journey of building a school in Basanta, Nepal with BuildOn and the local community.'
+coverImage: '/assets/blog/buildon-trek-nepal-jan-2025/team-start.jpg'
+date: '2025-01-21T17:40:00.000Z'
+author:
+  name: 'Parth Chandak'
+  picture: '/assets/blog/buildon-trek-nepal-jan-2025/parth-intro-1.jpg'
+ogImage:
+  url: '/assets/blog/buildon-trek-nepal-jan-2025/team-start.jpg'
+---
+
 <div style="display: flex; justify-content: center; width: 100%;">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/team-start.jpg" alt="Team Starting" style="width: 100%; height: auto;" />
 </div>
