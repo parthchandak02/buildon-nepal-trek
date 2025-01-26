@@ -125,8 +125,9 @@ Mr. Tharu's hospitality began immediately as he loaded our bags onto his bicycle
 
 *Parth*: The evening ended with an impromptu astronomy lesson, as I showed local children how to use a star map app on my phone. Among them was Sagar, a remarkably bright 10th grader whose English skills and intellectual curiosity would continue to impress me throughout our stay.
 
-<div style="display: flex; justify-content: center; width: 100%;">
-  <img src="/assets/blog/buildon-trek-nepal-jan-2025/mosquito-nets.jpg" alt="Stargazing and resting under mosquito nets" style="width: 50%; height: auto;" />
+<div class="grid">
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/mosquito-nets.jpg" alt="Resting under mosquito nets" />
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/stargazing-1.jpg" alt="Stargazing at night" />
 </div>
 <p class="image-caption">Stargazing and resting under mosquito nets</p>
 
@@ -377,14 +378,6 @@ This journey would not have been possible without our incredible team of Schoolh
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/team-start.jpg" alt="Team at the start of the journey" />
 </div>
 <p class="image-caption">A big thanks to Basanta and buildOn for this opportunity of learning</p>
-
-### Photo Gallery
-
-<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-carousel-widget" 
-  style="width: 100%; height: 480px; display: none;"
-  data-link="https://photos.app.goo.gl/WWhU8TDaVDMPkRsBA"
-  data-title="BuildOn Trek Nepal - Jan 2025"
-  data-delay="5"
-  data-autorepeat="true">
-</div>
+<p class="text-center text-sm text-gray-500 mt-4">
+  View more photos in our <a href="https://photos.app.goo.gl/WWhU8TDaVDMPkRsBA" target="_blank" rel="noopener noreferrer" class="text-blue-500 hover:underline">Google Photos album</a>
+</p>
