@@ -56,7 +56,7 @@ Thus began our nearly year-long journey to raise $55,000 for the school and our 
 
 ## **Day 2: Inspiration at Dhangadi**
 
-In the morning we had breakfast with the rest of our team. After a delayed journey to Dhangadi, thanks to the infamous winter fog (it seems even oceans away, we San Franciscans couldn’t escape Karl the Fog), we spent the afternoon visiting a completed buildOn school nearby. 
+In the morning, we had breakfast with the rest of our team. After a delayed journey to Dhangadi, thanks to the infamous winter fog (it seems even oceans away, we San Franciscans couldn't escape Karl the Fog), we spent the afternoon visiting a completed buildOn school nearby. 
 
 This visit filled our hearts with hope. The children gave us such a warm welcome - they put flower garlands around our necks and shared their songs and dances with us. Their joy was catching, and soon we were all smiling.
 <div class="grid">
@@ -88,7 +88,7 @@ Later that night, we were introduced to the dedicated buildOn management team, i
 </div>
 <p class="image-caption">The village's warm welcome ceremony</p>
 
-*Richa*: For me, it was the excitement. The women, dressed in their beautiful traditional attire, were laughing, dancing, and singing all around us. A group of them pulled the women in our team in and began dancing with us, their joy infectious. They even wrapped lehengas around our waists, making us feel like we weren’t just guests but an integral part of their community and celebration. As I sat at the ceremony, a group of young girls, aged six to ten, gathered around me and my friend. We began chatting with them, using the few sentences of Nepali we had learned that morning and Hindi, which most of them understood a little. There was Sonya, who sat on my lap, her smile never fading. Then there was Radha, the older sister who eagerly shared stories about her favorite subject at school and what she enjoyed doing in her free time. Another girl, Subi, lingered quietly in the background at first, but as our neighbor, she quickly grew to be one of the closest to my heart. It was the children in Nepal who would make my trip truly unforgettable.
+*Richa*: For me, it was exciting to see the children and women, dressed in their beautiful traditional attire. They were laughing, dancing, and singing all around us. A group of them pulled the women in our team in and began dancing with us, their joy infectious. They even wrapped lehengas around our waists, making us feel like we weren’t just guests but an integral part of their community and celebration. As I sat at the ceremony, a group of young girls, aged six to ten, gathered around me and my friend. We began chatting with them, using the few sentences of Nepali we had learned that morning and Hindi, which most of them understood a little. There was Sonya, who sat on my lap, her smile never fading. Then there was Radha, the older sister who eagerly shared stories about her favorite subject at school and what she enjoyed doing in her free time. Another girl, Subi, lingered quietly in the background at first, but as our neighbor, she quickly grew to be one of the closest to my heart. It was the children in Nepal who would make my trip truly unforgettable.
 
 *Parth*: The day was filled with significant moments – traditional dances, the signing of the covenant (a powerful symbol of community partnership), and a pooja (prayer) to mark the beginning of the project. But perhaps the most meaningful moment was meeting my host father, Mr. Tulasiram Tharu. 
 
@@ -190,6 +190,13 @@ Team Three was responsible for sifting sand and mixing cement. This was perhaps 
 
 *Richa*: In the women’s gender group, we shared details about our daily lives and free time. While we spoke about jobs and hobbies, they shared that household chores and agricultural work left them with none. The conversation touched on their dreams for their girls, marriage, menstruation as a taboo, and whether they discussed sexual matters with friends. They also mentioned how women often didn’t support each other when someone wanted to step outside traditional roles, like joining the village council - a challenge that seems universal. It was an honest and vulnerable exchange, offering a rare glimpse into their lives, their challenges, and their resilience
 
+<div class="grid">
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/gender-mens-group.jpg" alt="Men's gender discussion group" />
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/gender-womens-group.jpg" alt="Women's gender discussion group" />
+</div>
+<p class="image-caption">Gender discussion groups: Men and women sharing perspectives</p>
+
+
 *Parth*: My day ended with an impromptu football match with the village children – a beautiful reminder that play knows no language barriers. As we kicked the ball around under the setting sun, all differences melted away. It wasn't about Americans or Nepalis, buildOn team or villagers – it was simply people connecting through sport.
 
 <div class="grid-3">
@@ -203,7 +210,7 @@ Team Three was responsible for sifting sand and mixing cement. This was perhaps 
 
 ## **Day 5: Building Foundations & Dreams**
 
-More villagers joined our morning yoga on our second day of building
+More villagers joined our morning yoga on our second day of building.
 
 <div style="display: flex; justify-content: center; width: 100%;">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/yoga-2.jpg" alt="Morning yoga practice" style="width: 100%; height: auto;" />
@@ -215,7 +222,7 @@ The buildOn cheer felt stronger on our second day, with more villagers joining i
 <div style="display: flex; justify-content: center; width: 100%;">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/buildon-cheer-day-2.gif" alt="buildOn team cheering" style="width: 50%; height: auto;" />
 </div>
-<p class="image-caption">buildOn team's enthusiastic spirit on the scecond day</p>
+<p class="image-caption">buildOn team's enthusiastic spirit on the second day</p>
 
 As we worked harder on the school site, the villagers taught me how to mix cement their way. I could see how their farming skills made them experts with tools - they knew exactly how to use them.
 
@@ -333,7 +340,7 @@ The afternoon transformed into an unforgettable celebration. Our host families p
 </div>
 <p class="image-caption">Celebrating with traditional Nepali dances</p>
 
-*Richa*: Me and the girls from our team had also prepared a special surprise – we learned a popular Nepali song and choreographed a dance performance.
+*Richa*: The girls from our team and I had also prepared a special surprise – we learned a popular Nepali song and choreographed a dance performance.
 
 ### Evening of Gratitude
 
@@ -370,3 +377,14 @@ This journey would not have been possible without our incredible team of Schoolh
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/team-start.jpg" alt="Team at the start of the journey" />
 </div>
 <p class="image-caption">A big thanks to Basanta and buildOn for this opportunity of learning</p>
+
+### Photo Gallery
+
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-carousel-widget" 
+  style="width: 100%; height: 480px; display: none;"
+  data-link="https://photos.app.goo.gl/WWhU8TDaVDMPkRsBA"
+  data-title="BuildOn Trek Nepal - Jan 2025"
+  data-delay="5"
+  data-autorepeat="true">
+</div>
