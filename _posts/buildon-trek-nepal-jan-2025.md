@@ -52,11 +52,11 @@ Thus began our nearly year-long journey to raise $55,000 for the school and our 
 
 *Parth*: When our plane landed in Kathmandu, I felt at home in the familiar busy city life that reminded me of Mumbai. Our Trek Leader Santosh Mahato met us at the airport and took us to our hotel. He made sure we had everything we needed, including hot water. His attentiveness signaled the start of what would be an expertly guided journey. 
 
-*Richa*: Strangely enough, Kathmandu reminded me of Kabul - a city I’ve never been to before. Its short, cramped buildings, bustling streets, and markets overflowing with souvenirs felt like echoes of the Kabul I’d imagined while reading books like *The Kite Runner*. Meeting the entire team in person was really exciting - many of whom had only been faces on Zoom until then. That night, we went to bed early, eager to begin our journey to Dhangadhi, the district near the town of Basanta where we’d be building the school.
+*Richa*: Strangely enough, Kathmandu reminded me of Kabul - a city I’ve never been to before. Its short, cramped buildings, bustling streets, and markets overflowing with souvenirs felt like echoes of the Kabul I’d imagined while reading books like *The Kite Runner*. Meeting the entire team in person was really exciting - many of whom had only been faces on Zoom until then. That night, we went to bed early, eager to begin our journey to Dhangadi, the district near the town of Basanta where we’d be building the school.
 
-## **Day 2: First Steps in Nepal**
+## **Day 2: Dhangadi and the school visit**
 
-In the morning we had breakfast with the rest of our team. After a delayed journey to Dhangadhi, thanks to the infamous winter fog (it seems even oceans away, we San Franciscans couldn’t escape Karl the Fog), we spent the afternoon visiting a completed buildOn school nearby. 
+In the morning we had breakfast with the rest of our team. After a delayed journey to Dhangadi, thanks to the infamous winter fog (it seems even oceans away, we San Franciscans couldn’t escape Karl the Fog), we spent the afternoon visiting a completed buildOn school nearby. 
 
 This visit filled our hearts with hope. The children gave us such a warm welcome - they put flower garlands around our necks and shared their songs and dances with us. Their joy was catching, and soon we were all smiling.
 <div class="grid">
@@ -131,7 +131,7 @@ Mr. Tharu's hospitality began immediately as he loaded our bags onto his bicycle
 </div>
 <p class="image-caption">Stargazing and resting under mosquito nets</p>
 
-## **Day 4: Breaking Ground and Breaking Barriers**
+## **Day 4: Breaking Barriers**
 
 Our days in the community began with yoga at 6AM sharp led by a guru from the buildOn team. Even though it was cold and dark, the exercises warmed us up and got us ready for the day. After breakfast at the main office, we went to the construction site, excited to start the work we had come here to do.
 
@@ -202,7 +202,7 @@ Team Three was responsible for sifting sand and mixing cement. This was perhaps 
 
 *Richa*: While Parth bonded through football, Malaika, Yaquta (my trek roomies), and I connected with our girls through dance. They taught us a dance routine to a popular Nepali song, *Rukum Maikot*, and we spent hours laughing and practicing together.
 
-## **Day 5: Building Foundations and Celebrating Love**
+## **Day 5: Building Foundations**
 
 
 More villagers joined our morning yoga on our second day of building
@@ -272,7 +272,7 @@ But this day held a special surprise – a traditional Nepali wedding ceremony f
 </div>
 <p class="image-caption">Morgan and Dave's traditional Nepali wedding ceremony</p>
 
-## **Day 6: Final Touches and Fond Farewells**
+## **Day 6: Fond Farewells**
 
 *Richa*: Our last morning of construction began with what had become a cherished ritual – yoga at dawn. The number of villagers joining us had grown each day, a beautiful testament to the bonds we'd formed. The crisp morning air was filled with a mix of excitement and nostalgia, knowing this would be our final day of building.
 
@@ -350,7 +350,7 @@ That evening was filled with emotional exchanges of gifts. We presented our host
 
 *Richa*:Our team's last gathering stretched from 8 PM until midnight, as we shared our evolving perceptions of each other and the profound ways this experience had changed us. What had begun as a group of strangers had transformed into something far more meaningful – a family united by purpose and experience.
 
-## Day 7: Farewell to Basanta
+## Day 7: Taking back mmore than just emories
 
 *Parth*:The 3:45 AM alarm came too soon. As we prepared to leave for Dhangadi and then Kathmandu, emotions ran high. The school site we were leaving behind was more than just a construction project – it was a promise to the future, a bridge between cultures, and a testament to what people can achieve together.
 
@@ -361,7 +361,7 @@ The two-hour journey to Dhangadi was followed by some flight delays, but even th
 </div>
 <p class="image-caption">A breathtaking view of the Himalayas during our flight</p>
 
-## **Reflections & Special Thanks**
+### Reflections & Special Thanks
 
 The school we helped build in Basanta is more than just bricks and cement. It shows what can happen when people from different places work together. It's a promise of better things to come. We'll never forget what we saw and learned here.
 
