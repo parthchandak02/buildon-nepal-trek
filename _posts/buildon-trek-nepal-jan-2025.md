@@ -2,12 +2,12 @@
 <img src="/assets/blog/buildon-trek-nepal-jan-2025/team-final-1.jpg" alt="Team celebration" style="width: 100%; height: auto;" />
 </div>
 
-# BuildOn Schoolhouse Sherpas - Trek
+# buildOn Schoolhouse Sherpas - Trek
 **Basanta, Nepal** *(January 4 - 10, 2025)*
 
-By Parth Chandak and Richa Jatia
+*By Parth Chandak and Richa Jatia*
 
-Our buildOn journey began more than a year before our trek this January. 
+Our buildOn journey began more than a year before our trek in January 2025. 
 
 *Richa*: When I first met Morgan Dickerson, the Community Engagement Manager at buildOn, and she told me about Trek, I knew immediately that I wanted to put together a team. Education has always been close to my heart, and this was a unique opportunity to bring together friends, colleagues, and even strangers to fundraise for building a school. The idea of not only raising funds but also living in the community to help lay the school’s foundation was incredibly powerful - a tangible way to bring the impact of our efforts to life.
 
@@ -19,17 +19,17 @@ Thus began our nearly year-long journey to raise $55,000 for the school and our 
 
 
 <div class="grid">
-  <img src="/assets/blog/buildon-trek-nepal-jan-2025/bartending-team.png" alt="Guest bartending fundraiser team" />
-  <img src="/assets/blog/buildon-trek-nepal-jan-2025/pickleball-full.png" alt="Pickleball tournament participants" />
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/bartending-team.jpg" alt="Guest bartending fundraiser team" />
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/pickleball-full.jpg" alt="Pickleball tournament participants" />
     <img src="/assets/blog/buildon-trek-nepal-jan-2025/bartending-video.gif" alt="Guest bartending event highlights" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/pickleball-video.gif" alt="Pickleball tournament highlights" />
 </div>
 <p class="image-caption">Fundraising events: Pickleball tournament highlights</p>
 
 <div style="display: flex; justify-content: center; width: 100%;">
-  <img src="/assets/blog/buildon-trek-nepal-jan-2025/buildon-web-page.jpg" alt="BuildOn Schoolhouse Sherpas website screenshot" style="width: 50%; height: auto;" />
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/buildon-web-page.jpg" alt="buildOn Schoolhouse Sherpas website screenshot" style="width: 50%; height: auto;" />
 </div>
-<p class="image-caption">BuildOn Schoolhouse Sherpas fundraising progress</p>
+<p class="image-caption">buildOn Schoolhouse Sherpas fundraising progress</p>
 
 ## **Day 1: Arrival in Kathmandu**
 
@@ -203,9 +203,9 @@ More villagers joined our morning yoga on our second day of building
 The buildOn cheer felt stronger on our second day, with more villagers joining in as they learned the words and movements.
 
 <div style="display: flex; justify-content: center; width: 100%;">
-  <img src="/assets/blog/buildon-trek-nepal-jan-2025/buildon-cheer-day-2.gif" alt="BuildOn team cheering" style="width: 50%; height: auto;" />
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/buildon-cheer-day-2.gif" alt="buildOn team cheering" style="width: 50%; height: auto;" />
 </div>
-<p class="image-caption">BuildOn team's enthusiastic spirit on the scecond day</p>
+<p class="image-caption">buildOn team's enthusiastic spirit on the scecond day</p>
 
 As we worked harder on the school site, the villagers taught me how to mix cement their way. I could see how their farming skills made them experts with tools - they knew exactly how to use them.
 
@@ -223,6 +223,21 @@ Some teams formed human chains that snaked across the construction site, passing
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/human-chain-3.jpg" alt="Team spirit in action" />
 </div>
 <p class="image-caption">Village community and buildOn team working together in a human chain</p>
+
+*Parth*:The digging team also continued and we switched off taking turns doing multiple activities in the work day. 
+
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/digging-parth-1.jpg" alt="Parth digging at the construction site" style="width: 100%; height: auto;" />
+</div>
+<p class="image-caption">Continuing the foundation trenches</p>
+
+*Richa*: We had made incredible progress in just 2 days, from the site being dug to having foundations laid with a mix of cement and stone with the rebar in some of the holes. 
+
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/construction-progress.jpg" alt="Construction progress" style="width: 100%; height: auto;" />
+</div>
+<p class="image-caption">Progress on the school construction site</p>
+
 
 But this day held a special surprise – a traditional Nepali wedding ceremony for our teammates, Morgan and Dave. What began as a small celebration transformed into a village-wide festival.
 
@@ -257,14 +272,14 @@ But this day held a special surprise – a traditional Nepali wedding ceremony f
 *Parth*: The buildOn cheer felt stronger on our last day, with more villagers joining in as they learned the words and movements.
 
 <div style="display: flex; justify-content: center; width: 100%;">
-  <img src="/assets/blog/buildon-trek-nepal-jan-2025/buildon-cheer-day-3.jpg" alt="BuildOn team cheering" style="width: 50%; height: auto;" />
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/buildon-cheer-day-3.jpg" alt="buildOn team cheering" style="width: 100%; height: auto;" />
 </div>
-<p class="image-caption">BuildOn team's enthusiastic spirit on day three</p>
+<p class="image-caption">buildOn team's enthusiastic spirit on day three</p>
 
 *Parth*: What made this final day even more special was an unexpected surge of young energy. Sagar and his classmates, having spread word about our project to neighboring schools, arrived with their entire 8th, 9th, and 10th grade classes to help with construction. Their presence not only accelerated our work but also symbolized the project's ripple effect throughout the community - these students weren't just building a school, they were building their own future.
 
-<div class="grid">
-  <img src="/assets/blog/buildon-trek-nepal-jan-2025/neighboring-school-kids.jpg" alt="Students from neighboring schools" />
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/neighboring-school-kids.jpg" alt="Students from neighboring schools" style="width: 100%; height: auto;" />
 </div>
 <p class="image-caption">Students from neighboring schools joining to help with construction</p>
 
@@ -286,7 +301,7 @@ The work site buzzed with renewed energy. Looking at our progress from day one t
 
 The afternoon transformed into an unforgettable celebration. Our host families presented us with traditional attire, dressing us in local garments that made us feel truly part of their community. The village gathered one final time, the air filled with music and dance.
 
-The celebration began with a beautiful showcase of local culture, as village women performed traditional Nepali dances. Their graceful movements and colorful attire created a mesmerizing display of the region's rich cultural heritage.
+*Richa*: For me, the celebration was a beautiful showcase of local culture, as village women performed traditional Nepali dances. Their graceful movements and colorful attire created a mesmerizing display of the region's rich cultural heritage.
 
 <div style="display: flex; justify-content: center; width: 100%;">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/nepali-closing-dance.gif" alt="Traditional Nepali dance performance" style="width: 50%; height: auto;" />
@@ -301,14 +316,14 @@ The celebration began with a beautiful showcase of local culture, as village wom
 </div>
 <p class="image-caption">Our team immersed in the vibrant cultural celebrations</p>
 
-The formal ceremony gave way to spontaneous dancing, with Bollywood tunes bringing everyone to their feet. It was a beautiful fusion of cultures – Nepali traditions meeting Indian music, American enthusiasm blending with local grace.
+*Parth*: For me, the ceremony gave way to spontaneous dancing, with Bollywood tunes bringing everyone to their feet. It was a beautiful fusion of cultures – Nepali traditions meeting Indian music, American enthusiasm blending with local grace.
 
 <div style="display: flex; justify-content: center; width: 100%;">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/team-cultural-dance.gif" alt="Traditional dance performance" style="width: 100%; height: auto;" />
 </div>
 <p class="image-caption">Celebrating with traditional Nepali dances</p>
 
-The girls from our team had also prepared a special surprise – they learned a popular Nepali song and choreographed a dance performance, which they presented as a heartfelt tribute to Morgan and Dave during the celebrations.
+*Richa*: Me and the girls from our team had also prepared a special surprise – we learned a popular Nepali song and choreographed a dance performance.
 
 ### Evening of Gratitude
 
@@ -319,13 +334,13 @@ That evening was filled with emotional exchanges of gifts. We presented our host
 </div>
 <p class="image-caption">Capturing memories with a Polaroid camera</p>
 
-My final conversation with Sagar was particularly moving. His bright spirit and technological aptitude had shown me that potential knows no geographical bounds. In him, I saw the future that BuildOn was helping to create.
+*Parth*:My final conversation with Sagar was particularly moving. His bright spirit and technological aptitude had shown me that potential knows no geographical bounds. In him, I saw the future that buildOn was helping to create.
 
-Our team's last gathering stretched from 8 PM until midnight, as we shared our evolving perceptions of each other and the profound ways this experience had changed us. What had begun as a group of strangers had transformed into something far more meaningful – a family united by purpose and experience.
+*Richa*:Our team's last gathering stretched from 8 PM until midnight, as we shared our evolving perceptions of each other and the profound ways this experience had changed us. What had begun as a group of strangers had transformed into something far more meaningful – a family united by purpose and experience.
 
 ## Day 7: Farewell to Basanta
 
-The 3:45 AM alarm came too soon. As we prepared to leave for Dhangadi and then Kathmandu, emotions ran high. The school site we were leaving behind was more than just a construction project – it was a promise to the future, a bridge between cultures, and a testament to what people can achieve together.
+*Parth*:The 3:45 AM alarm came too soon. As we prepared to leave for Dhangadi and then Kathmandu, emotions ran high. The school site we were leaving behind was more than just a construction project – it was a promise to the future, a bridge between cultures, and a testament to what people can achieve together.
 
 The two-hour journey to Dhangadi was followed by some flight delays, but even these couldn't dampen our spirits. Our propeller plane to Kathmandu offered a parting gift – breathtaking views of Mount Everest and the Himalayan range, a majestic farewell to our Nepali adventure.
 
@@ -340,7 +355,8 @@ The school we helped build in Basanta is more than just bricks and cement. It sh
 
 This journey would not have been possible without our incredible team of Schoolhouse Sherpas: David Sang, Morgan Dickerson, Dhruv Baijal, Suchi Jatia, Bree Cave, Jeff Nasser, Esha Desai, Tanu Rathi, Niti Parekh, Malaika Vesavevala, Karim Khairaz, Akhil Shukla and Nikhil Agarwal. Each member brought their unique strengths and perspectives, making our team truly special. Together, we not only reached our fundraising goal but also created lasting bonds with each other and the community of Basanta.
 
-<div style="display: flex; justify-content: center; width: 100%;">
-  <img src="/assets/blog/buildon-trek-nepal-jan-2025/parth-intro-1.jpg" alt="Author with BuildOn team" style="width: 50%; height: auto;" />
+<div class="grid">
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/parth-intro-1.jpg" alt="Author with buildOn team" />
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/team-start.jpg" alt="Team at the start of the journey" />
 </div>
-<p class="image-caption">A big thanks to Basanta and BuildOn for this opportunity of learning</p>
+<p class="image-caption">A big thanks to Basanta and buildOn for this opportunity of learning</p>
