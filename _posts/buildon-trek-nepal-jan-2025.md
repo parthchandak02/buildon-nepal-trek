@@ -43,7 +43,7 @@ Thus began our nearly year-long journey to raise $55,000 for the school and our 
 </div>
 <p class="image-caption">buildOn Schoolhouse Sherpas fundraising progress</p>
 
-## **Day 1: Arrival in Kathmandu**
+## **Day 1: First Steps in Kathmandu**
 
 <div style="display: flex; justify-content: center; width: 100%;">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/plane-landing-nepal.jpg" alt="Landing in Nepal" style="width: 100%; height: auto;" />
@@ -54,7 +54,7 @@ Thus began our nearly year-long journey to raise $55,000 for the school and our 
 
 *Richa*: Strangely enough, Kathmandu reminded me of Kabul - a city I’ve never been to before. Its short, cramped buildings, bustling streets, and markets overflowing with souvenirs felt like echoes of the Kabul I’d imagined while reading books like *The Kite Runner*. Meeting the entire team in person was really exciting - many of whom had only been faces on Zoom until then. That night, we went to bed early, eager to begin our journey to Dhangadi, the district near the town of Basanta where we’d be building the school.
 
-## **Day 2: Dhangadi and the school visit**
+## **Day 2: Inspiration at Dhangadi**
 
 In the morning we had breakfast with the rest of our team. After a delayed journey to Dhangadi, thanks to the infamous winter fog (it seems even oceans away, we San Franciscans couldn’t escape Karl the Fog), we spent the afternoon visiting a completed buildOn school nearby. 
 
@@ -65,9 +65,9 @@ This visit filled our hearts with hope. The children gave us such a warm welcome
 </div>
 <p class="image-caption">School children sharing their culture through dance and song</p>
 
-*Parth*: One of the most impactful moments came during our introduction to buildOn's adult literacy program. Through our skilled translators, Madan and Runam, we heard powerful testimonials from villagers whose lives had been transformed. They spoke of "new life" of learning basic economics and mathematics, of starting their own handicraft and farming businesses.
+*Parth*: One of the most impactful moments came during our introduction to buildOn's adult literacy program. Through our skilled translators, Madan and Runam, we heard powerful testimonials from villagers whose lives had been transformed. They spoke of "new life" after learning basic economics and mathematics, which enabled them to start their own handicraft and farming businesses. The translators did an incredible job conveying not just the words, but the emotions and pride in the villagers' voices as they shared their stories.
 
-*Richa*: What stood out to me was that most of the adults in this program were women. In countries like India and Nepal, rural women often don’t have the confidence to step outside traditional roles or access opportunities to learn. Yet here they were, showing incredible initiative and courage by coming to school every day - not only to manage household or agricultural work more effectively, but to help their children with homework and ensure they stayed in school. It was deeply moving and a powerful reminder of the ripple effect education can create.
+*Richa*: What stood out to me was that most of the adults in this program were women. In countries like India and Nepal, rural women often don't have the confidence to step outside traditional roles or access opportunities to learn. Yet here they were, showing incredible initiative and courage by coming to school every day - not only to manage household or agricultural work more effectively but to help their children with homework and ensure they stayed in school. It was deeply moving and a powerful reminder of the ripple effect education can create.
 
 The joy and gratitude of the school children touched our hearts deeply. They had prepared special performances to thank us - their small faces beaming with excitement as they danced and sang traditional songs. Their enthusiasm was contagious, and we found ourselves clapping along, caught up in their happiness. It was a beautiful demonstration of how a school can become the heart of a community, nurturing not just education but also cultural pride and creativity.
 
@@ -78,7 +78,7 @@ The joy and gratitude of the school children touched our hearts deeply. They had
 
 Later that night, we were introduced to the dedicated buildOn management team, including Trek Coordinator, Ardahana (Anu) Chaudhary, and Deputy Trek Director, Jharana Bam. Learning that this would be buildOn's 419th school in Nepal, and that some team members had participated in over 100 treks, gave us a sense of the program's incredible scale and impact.
 
-## **Day 3: Journey to Basanta**
+## **Day 3: Welcome to Basanta**
 
 *Parth*: The morning began early as we boarded our team bus to Basanta. What awaited us was a welcome ceremony that would stay with me forever. The entire village had lined up to greet us, creating a human pathway to the school playground, which had been beautifully decorated for our arrival.
 
@@ -125,13 +125,12 @@ Mr. Tharu's hospitality began immediately as he loaded our bags onto his bicycle
 
 *Parth*: The evening ended with an impromptu astronomy lesson, as I showed local children how to use a star map app on my phone. Among them was Sagar, a remarkably bright 10th grader whose English skills and intellectual curiosity would continue to impress me throughout our stay.
 
-<div class="grid">
-  <img src="/assets/blog/buildon-trek-nepal-jan-2025/stargazing-1.jpg" alt="Stargazing with the team" />
-  <img src="/assets/blog/buildon-trek-nepal-jan-2025/mosquito-nets.jpg" alt="Sleeping under mosquito nets" />
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/mosquito-nets.jpg" alt="Stargazing and resting under mosquito nets" style="width: 50%; height: auto;" />
 </div>
 <p class="image-caption">Stargazing and resting under mosquito nets</p>
 
-## **Day 4: Breaking Barriers**
+## **Day 4: Breaking Barriers, Building Bonds**
 
 Our days in the community began with yoga at 6AM sharp led by a guru from the buildOn team. Even though it was cold and dark, the exercises warmed us up and got us ready for the day. After breakfast at the main office, we went to the construction site, excited to start the work we had come here to do.
 
@@ -187,7 +186,7 @@ Team Three was responsible for sifting sand and mixing cement. This was perhaps 
 <div style="display: flex; justify-content: center; width: 100%;">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/farmers-discussion.jpg" alt="Farmers discussion group" style="width: 100%; height: auto;" />
 </div>
-<p class="image-caption">Learning from local farmers about their agricultural practices</p>
+<p class="image-caption">Deep discussions with the village farmers about their challenges and aspirations</p>
 
 *Richa*: In the women’s gender group, we shared details about our daily lives and free time. While we spoke about jobs and hobbies, they shared that household chores and agricultural work left them with none. The conversation touched on their dreams for their girls, marriage, menstruation as a taboo, and whether they discussed sexual matters with friends. They also mentioned how women often didn’t support each other when someone wanted to step outside traditional roles, like joining the village council - a challenge that seems universal. It was an honest and vulnerable exchange, offering a rare glimpse into their lives, their challenges, and their resilience
 
@@ -202,8 +201,7 @@ Team Three was responsible for sifting sand and mixing cement. This was perhaps 
 
 *Richa*: While Parth bonded through football, Malaika, Yaquta (my trek roomies), and I connected with our girls through dance. They taught us a dance routine to a popular Nepali song, *Rukum Maikot*, and we spent hours laughing and practicing together.
 
-## **Day 5: Building Foundations**
-
+## **Day 5: Building Foundations & Dreams**
 
 More villagers joined our morning yoga on our second day of building
 
@@ -253,7 +251,7 @@ Some teams formed human chains that snaked across the construction site, passing
 
 But this day held a special surprise – a traditional Nepali wedding ceremony for our teammates, Morgan and Dave. What began as a small celebration transformed into a village-wide festival.
 
-*Parth*: As someone familiar with Indian weddings, I was fascinated by both the similarities and unique aspects of Nepali traditions. I was with Dave at his host family home as they got him ready with his traditional attire. In moments we were dancing and the villagers joined. This slowly became the baraat (the procession from the grooms place to the brides) and in very little time, the whole village started dancing behind Dave as he made his way across the village to meet Morgan.
+*Parth*: As someone familiar with Indian weddings, I was fascinated by both the similarities and unique aspects of Nepali traditions. I was with Dave at his host family home as they got him ready with his traditional attire. In moments we were dancing and the villagers joined. This slowly became the baraat (the procession from the groom's place to the bride's) and in very little time, the whole village started dancing behind Dave as he made his way across the village to meet Morgan.
 
 <div class="grid-3">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/groom-1.jpg" alt="Wedding celebrations" />
@@ -272,7 +270,7 @@ But this day held a special surprise – a traditional Nepali wedding ceremony f
 </div>
 <p class="image-caption">Morgan and Dave's traditional Nepali wedding ceremony</p>
 
-## **Day 6: Fond Farewells**
+## **Day 6: Celebrating Community**
 
 *Richa*: Our last morning of construction began with what had become a cherished ritual – yoga at dawn. The number of villagers joining us had grown each day, a beautiful testament to the bonds we'd formed. The crisp morning air was filled with a mix of excitement and nostalgia, knowing this would be our final day of building.
 
@@ -350,7 +348,7 @@ That evening was filled with emotional exchanges of gifts. We presented our host
 
 *Richa*:Our team's last gathering stretched from 8 PM until midnight, as we shared our evolving perceptions of each other and the profound ways this experience had changed us. What had begun as a group of strangers had transformed into something far more meaningful – a family united by purpose and experience.
 
-## Day 7: Taking back mmore than just emories
+## **Day 7: A Promise for Tomorrow**
 
 *Parth*:The 3:45 AM alarm came too soon. As we prepared to leave for Dhangadi and then Kathmandu, emotions ran high. The school site we were leaving behind was more than just a construction project – it was a promise to the future, a bridge between cultures, and a testament to what people can achieve together.
 
