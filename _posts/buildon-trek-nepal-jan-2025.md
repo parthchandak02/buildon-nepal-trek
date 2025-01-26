@@ -373,9 +373,8 @@ The school we helped build in Basanta is more than just bricks and cement. It sh
 
 This journey would not have been possible without our incredible team of Schoolhouse Sherpas: David Sang, Morgan Dickerson, Dhruv Baijal, Suchi Jatia, Bree Cave, Jeff Nasser, Esha Desai, Tanu Rathi, Niti Parekh, Malaika Vesavevala, Karim Khairaz, Akhil Shukla and Nikhil Agarwal. Each member brought their unique strengths and perspectives, making our team truly special. Together, we not only reached our fundraising goal but also created lasting bonds with each other and the community of Basanta.
 
-<div class="grid">
-  <img src="/assets/blog/buildon-trek-nepal-jan-2025/parth-intro-1.jpg" alt="Author with buildOn team" />
-  <img src="/assets/blog/buildon-trek-nepal-jan-2025/team-start.jpg" alt="Team at the start of the journey" />
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/team-start.jpg" alt="Team at the start of the journey" style="width: 100%; height: auto;" />
 </div>
 <p class="image-caption">A big thanks to Basanta and buildOn for this opportunity of learning</p>
 <p class="text-center text-sm text-gray-500 mt-4">
