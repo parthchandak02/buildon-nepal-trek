@@ -3,7 +3,9 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "convert-videos": "node scripts/convert-videos.js",
+    "check-images": "node scripts/check-images.js"
   },
   "dependencies": {
     "classnames": "^2.5.1",
