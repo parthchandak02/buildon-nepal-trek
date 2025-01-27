@@ -19,7 +19,7 @@ ogImage:
 
 *By Parth Chandak and Richa Jatia*
 
-Our buildOn journey began more than a year before our trek in January 2025\.
+Our buildOn journey began more than a year before our trek in January 2025.
 *Richa*: When I first met Morgan Dickerson, the Community Engagement Manager at buildOn, she told me about buildOn’s Trek program and I immediately knew that I wanted to put together a team. Education has always been close to my heart, and this was a unique opportunity to bring together friends, colleagues, and even strangers to fundraise for building a school. The idea of not only raising funds but also living in the community to help lay the school’s foundation was incredibly powerful - a tangible way to bring the impact of our efforts to life.
 
 *Parth*: When Richa approached me about Trek, I was instantly drawn to the opportunity to make a meaningful impact in a small community through education. I said yes without hesitation, and it’s been one of the best decisions I’ve made.
@@ -29,7 +29,7 @@ We initially put together a team of 15 and chose Nepal as our destination becaus
 Thus began our nearly year-long journey to raise $55,000 for the school and our trek fees. From organizing guest bartending events to hosting a pickleball tournament with 52 players, the experience was nothing short of an adventure. It was humbling to witness the generosity of so many people - those who donated, volunteered their time, or simply cheered us on. By the time we embarked on the trek, our team had evolved: while some were there from the start, others joined later, and a few who helped fundraise couldn’t make it to Nepal. Ultimately, the 11 of us who made the journey were a mix of old and new faces, united by a shared belief in the power of education and a desire to do something bigger than ourselves. Here's a look at our journey to Nepal, through both our eyes.
 
 
-<div class="grid">
+<div class="grid-flex">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/bartending-team.jpg" alt="Guest bartending fundraiser team" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/pickleball-full.jpg" alt="Pickleball tournament participants" />
     <img src="/assets/blog/buildon-trek-nepal-jan-2025/bartending-video.gif" alt="Guest bartending event highlights" />
@@ -58,7 +58,7 @@ In the morning we had breakfast with the rest of our team. After a delayed journ
 <p class="image-caption">On our way to Dhangadhi</p>
 
 This visit filled our hearts with hope. The children gave us such a warm welcome - they put flower garlands around our necks and shared their songs and dances with us. Their joy was catching, and soon we were all smiling.
-<div class="grid">
+<div class="grid-flex">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/welcome-garlands-1.gif" alt="Children welcoming us with garlands" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/welcome-garlands-2.gif" alt="More welcome ceremonies" />
 </div>
@@ -86,7 +86,7 @@ Later that night, we were introduced to the dedicated buildOn management team, i
 
 *Parth*: The morning began early as we boarded our team bus to Basanta. What awaited us was a welcome ceremony that would stay with me forever. The entire village had lined up to greet us, creating a human pathway to the school playground, which had been beautifully decorated for our arrival.
 
-<div class="grid-4">
+<div class="grid-flex">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/welcome-jeff.gif" alt="Traditional welcome dance" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/welcome-dance-girls.gif" alt="Welcome ceremony" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/welcome-dance-2.jpg" alt="Welcome ceremony" />
@@ -96,17 +96,17 @@ Later that night, we were introduced to the dedicated buildOn management team, i
 
 *Richa*: The women, dressed in their beautiful traditional attire, were laughing, dancing, and singing all around us. A group of them pulled the women in our team in and began dancing with us. They even wrapped lehengas around our waists, making us feel like we weren’t just guests but an integral part of their community and celebration. As I sat at the ceremony, a group of young girls, aged six to ten, gathered around me and my friend. We began chatting with them, using the few sentences of Nepali we had learned that morning and Hindi, which most of them understood a little. There was Sonya, who sat on my lap, her smile never fading. Then there was Ritu, the older sister who eagerly shared stories about her favorite subject at school and what she enjoyed doing in her free time. Another girl, Subi, lingered quietly in the background at first, but as our neighbor, she quickly grew to be one of the closest to my heart. It was the children in Nepal who would make my trip truly unforgettable.
 
-<div class="grid">
+<div class="grid-flex">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/welcome-dance-pink-girls.jpg" alt="Young girls in pink traditional dress welcoming the team" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/richa-girls-first-day.jpg" alt="Richa bonding with village girls on the first day" />
 </div>
 
 *Parth*: The day was filled with significant moments – traditional dances, the signing of the covenant (a powerful symbol of community partnership), and a pooja (prayer) to mark the beginning of the project. But perhaps the most meaningful moment was meeting my host father, Mr. Tulasiram Tharu.
 
-Mr. Tharu's hospitality began immediately as he loaded our bags onto his bicycle. At his home, I met his warm family - his daughter-in-law who managed the household with grace and his cheerful grandson Prince who quickly became my friend. During our walk through the village, we talked with neighbors about their Hindu traditions and their wish to be closer to nearby countries like India. The children couldn’t take their eyes off Dean, my teammate and roommate for the trek. A teacher from Ohio with over 30 years of experience teaching middle schoolers, he was, for most of them, the first American they had ever met. During our walk to his farms, Mr. Tharu shared that his son was working in Malaysia and wouldn't return for three years. Despite the distance, the family's strong bonds were evident in how they supported each other. Communication flowed surprisingly well – my Hindi helped bridge the gap with Nepali, allowing me to translate for Dean. I learned about the Nepali calendar (Bikram Samvat), discovering that our 2025 was their 2081\.
+Mr. Tharu's hospitality began immediately as he loaded our bags onto his bicycle. At his home, I met his warm family - his daughter-in-law who managed the household with grace and his cheerful grandson Prince who quickly became my friend. During our walk through the village, we talked with neighbors about their Hindu traditions and their wish to be closer to nearby countries like India. The children couldn't take their eyes off Dean, my teammate and roommate for the trek. A teacher from Ohio with over 30 years of experience teaching middle schoolers, he was, for most of them, the first American they had ever met. During our walk to his farms, Mr. Tharu shared that his son was working in Malaysia and wouldn't return for three years. Despite the distance, the family's strong bonds were evident in how they supported each other. Communication flowed surprisingly well – my Hindi helped bridge the gap with Nepali, allowing me to translate for Dean. I learned about the Nepali calendar ([Bikram Samvat](https://www.ashesh.com.np/nepali-calendar/)), discovering that our 2025 was their 2081\.
 
 
-<div class="grid">
+<div class="grid-flex">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/pooja-ceremony.gif" alt="Commencement pooja ceremony" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/team-dig-begin.gif" alt="Team starting the foundation" />
 </div>
@@ -143,7 +143,7 @@ Mr. Tharu's hospitality began immediately as he loaded our bags onto his bicycle
 
 *Parth*: The evening ended with an impromptu astronomy lesson, as I showed local children how to use a star map app on my phone. Among them was Sagar, a remarkably bright 10th grader whose English skills and intellectual curiosity would continue to impress me throughout our stay.
 
-<div class="grid">
+<div class="grid-flex">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/mosquito-nets.jpg" alt="Resting under mosquito nets" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/stargazing-1.jpg" alt="Stargazing at night" />
 </div>
@@ -175,7 +175,7 @@ We split into 3 teams and rotated between tasks. Team One took on the challengin
 
 Team Two focused on preparing the rebar (steel rods) that would reinforce the concrete foundation. This precise work required measuring, cutting, and bending the steel to exact specifications. The local masons showed us their techniques, and we quickly learned that this task needed both strength and accuracy.
 
-<div class="grid-4">
+<div class="grid-flex">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/rebar-1.gif" alt="Rebar preparation" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/rebar-2.gif" alt="Steel work" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/rebar-3.jpg" alt="Detailed rebar work" />
@@ -203,7 +203,7 @@ Team Three was responsible for sifting sand and mixing cement. This was perhaps 
 *Parth*: After an energizing lunch, we participated in a powerful exercise about courage, each of us reflecting on what the word meant to us.
 
 
-<div class="grid">
+<div class="grid-flex">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/lunch-richa-malaika.jpg" alt="Richa and Malaika having lunch" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/lunch-parth-anu.jpg" alt="Parth and Anu having lunch" />
 </div>
@@ -219,7 +219,7 @@ Team Three was responsible for sifting sand and mixing cement. This was perhaps 
 
 *Richa*: In the women’s group, we shared details about our daily lives and free time. While we spoke about jobs and hobbies, they shared that household chores and agricultural work left them with none. The conversation touched on their dreams for their girls, marriage, menstruation as a taboo, and whether they discussed sexual matters with friends. They also mentioned how women often didn’t support each other when someone wanted to step outside traditional roles, like joining the village council - a challenge that seems universal. It was an honest and vulnerable exchange, offering a rare glimpse into their lives, challenges, and resilience.
 
-<div class="grid">
+<div class="grid-flex">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/gender-mens-group.jpg" alt="Men's gender discussion group" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/gender-womens-group.jpg" alt="Women's gender discussion group" />
 </div>
@@ -228,7 +228,7 @@ Team Three was responsible for sifting sand and mixing cement. This was perhaps 
 
 *Parth*: My day ended with an impromptu football match with the village children – a beautiful reminder that play knows no language barriers. As we kicked the ball around under the setting sun, all differences melted away. It wasn't about Americans or Nepalis, buildOn team or villagers – it was simply people connecting through sport.
 
-<div class="grid">
+<div class="grid-flex">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/football-1.gif" alt="Playing football with children" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/football-2.gif" alt="Football match with local kids" />
 </div>
@@ -262,7 +262,7 @@ Team Three was responsible for sifting sand and mixing cement. This was perhaps 
 We began work early in the morning. Some teams formed human chains that snaked across the construction site, passing rocks and pans of sand from one person to another. This method not only made the work faster but brought everyone together - buildOn team members, villagers, and even curious children who wanted to help. The chains became a living symbol of community spirit, with songs and laughter making the heavy loads feel lighter.
 
 
-<div class="grid">
+<div class="grid-flex">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/human-chain-2.jpg" alt="Community working together" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/human-chain-3.jpg" alt="Team spirit in action" />
 </div>
@@ -270,7 +270,7 @@ We began work early in the morning. Some teams formed human chains that snaked a
 
 *Parth*: As we worked harder on the school site, the villagers taught me how to mix cement their way. I could see how their farming skills made them experts with tools - they knew exactly how to use them. The digging team also continued and we switched off taking turns doing multiple activities in the work day.
 
-<div class="grid">
+<div class="grid-flex">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/cement-mixing-1.jpg" alt="Cement mixing" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/cement-mixing-2.jpg" alt="Traditional mixing" />
 </div>
@@ -288,7 +288,7 @@ But this day held a special surprise: a traditional Nepali wedding ceremony for 
 
 *Parth*: As someone familiar with Indian weddings, I was fascinated by both the similarities and unique aspects of Nepali traditions. I was with Dave at his host family’s home as they got him ready in his traditional attire. Within moments, we were dancing, and more and more villagers joined in. This became the *baraat* (the groom’s procession to the bride’s home) and in no time, the entire village was dancing behind Dave as he made his way across Basanta to meet Morgan.
 
-<div class="grid-3">
+<div class="grid-flex">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/groom-1.jpg" alt="Wedding celebrations" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/groom-3.gif" alt="Cultural wedding rituals" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/groom-2.jpg" alt="Cultural wedding rituals" />
@@ -301,7 +301,7 @@ But this day held a special surprise: a traditional Nepali wedding ceremony for 
 </div>
 <p class="image-caption">Wedding celebrations with the kids and our team</p>
 
-<div class="grid-4">
+<div class="grid-flex">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/bride-and-groom.jpg" alt="Traditional wedding ceremony" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/bride-and-groom-2.jpg" alt="Cultural wedding rituals" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/bride-and-groom-1.jpg" alt="Wedding celebrations" />
@@ -332,7 +332,7 @@ Our last morning of construction began with what had become a cherished ritual �
 
 The work site buzzed with renewed energy. Looking at our progress from day one to now was nothing short of remarkable. The trenches we'd dug, the foundations we'd laid - each element a physical manifestation of our collective hope for the future.
 
-<div class="grid">
+<div class="grid-flex">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/before-construction.jpg" alt="School site before construction" />
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/after-construction.jpg" alt="School site after construction" />
 </div>
