@@ -2,14 +2,13 @@
   @apply prose prose-lg prose-slate max-w-none;
 }
 
-/* Base Image Styles */
+/* Base Styles */
 .markdown img {
-  @apply rounded-lg shadow-lg w-full h-auto object-cover cursor-pointer;
+  @apply rounded-lg shadow-lg w-full h-auto object-cover cursor-pointer m-0;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  margin: 0;
 }
 
-/* Image Container Base Styles */
+/* Container Base Styles */
 .markdown :global(.single-image),
 .markdown :global(.smart-gallery) {
   @apply my-12;
@@ -18,6 +17,113 @@
 /* Single Image Container */
 .markdown :global(.single-image) {
   @apply flex flex-col items-center;
+}
+
+.markdown :global(.single-image img) {
+  width: var(--image-width, 100%);
+  max-width: 100%;
+}
+
+/* Smart Gallery */
+.markdown :global(.smart-gallery) {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(12, 1fr);
+}
+
+.markdown :global(.smart-gallery img) {
+  @apply w-full h-full object-cover;
+}
+
+/* Smart Gallery Layouts */
+.markdown :global(.smart-gallery) {
+  & :global(:has(> :only-child)) > * { grid-column: span 12; }
+
+  & :global(:has(> :nth-child(2):last-child)) > * { grid-column: span 6; }
+
+  & :global(:has(> :nth-child(3):last-child)) {
+    & > *:first-child { grid-column: span 12; }
+    & > *:not(:first-child) { grid-column: span 6; }
+  }
+
+  & :global(:has(> :nth-child(4):last-child)) > * { grid-column: span 6; }
+
+  & :global(:has(> :nth-child(5):last-child)) {
+    & > *:first-child {
+      grid-column: span 8;
+      grid-row: span 2;
+    }
+    & > *:not(:first-child) { grid-column: span 4; }
+  }
+
+  & :global(:has(> :nth-child(6):last-child)) > * { grid-column: span 4; }
+
+  & :global(:has(> :nth-child(7))) {
+    & > *:nth-child(3n+1) { grid-column: span 6; }
+    & > *:nth-child(3n+2),
+    & > *:nth-child(3n) { grid-column: span 3; }
+  }
+}
+
+/* Image Captions */
+.markdown :global(.image-caption) {
+  @apply text-center text-sm text-gray-600 mt-2;
+}
+
+/* Hover Effects */
+@media (hover: hover) {
+  .markdown img:hover {
+    @apply z-10;
+    transform: scale(1.05);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  }
+}
+
+/* Modal */
+.markdown :global(.image-modal) {
+  @apply fixed inset-0 bg-black/90 hidden justify-center items-center z-50 p-5 cursor-zoom-out;
+
+  &.active {
+    @apply flex;
+    animation: fadeIn 0.3s ease;
+  }
+
+  & img {
+    @apply max-w-[90%] max-h-[90vh] object-contain m-0 rounded-lg shadow-lg;
+    animation: zoomIn 0.3s ease;
+  }
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes zoomIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Typography */
+.markdown {
+  & h1 { @apply text-5xl font-bold mt-16 mb-8 leading-tight tracking-tight; }
+  & h2 { @apply text-3xl font-semibold mt-12 mb-6 leading-snug; }
+  & h3 { @apply text-2xl font-medium mt-8 mb-4 leading-snug; }
+  & p { @apply my-6 leading-relaxed; }
+  & a { @apply text-blue-600 hover:text-blue-800 underline; }
+}
+
+/* Image Container Base Styles */
+.markdown :global(.single-image),
+.markdown :global(.smart-gallery) {
+  @apply my-12;
 }
 
 /* Single image width control using CSS variable */
@@ -74,120 +180,6 @@
 .markdown :global(.smart-gallery:has(> :nth-child(7))) > *:nth-child(3n+2),
 .markdown :global(.smart-gallery:has(> :nth-child(7))) > *:nth-child(3n) {
   grid-column: span 3;
-}
-
-/* Image Captions */
-.markdown :global(.image-caption) {
-  @apply text-center text-sm text-gray-600 mt-2;
-}
-
-/* Hover Effects */
-@media (hover: hover) {
-  .markdown img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
-    z-index: 10;
-  }
-}
-
-/* Modal Styles */
-.markdown :global(.image-modal) {
-  @apply fixed inset-0 bg-black/90 hidden justify-center items-center z-50 p-5 cursor-zoom-out;
-}
-
-.markdown :global(.image-modal.active) {
-  @apply flex;
-  animation: fadeIn 0.3s ease;
-}
-
-.markdown :global(.image-modal img) {
-  @apply max-w-[90%] max-h-[90vh] object-contain m-0 rounded-lg shadow-lg;
-  animation: zoomIn 0.3s ease;
-}
-
-/* Animations */
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-@keyframes zoomIn {
-  from {
-    opacity: 0;
-    transform: scale(0.95);
-  }
-  to {
-    opacity: 1;
-    transform: scale(1);
-  }
-}
-
-/* Typography */
-.markdown h1 {
-  @apply text-5xl font-bold mt-16 mb-8 leading-tight tracking-tight;
-}
-
-.markdown h2 {
-  @apply text-3xl font-semibold mt-12 mb-6 leading-snug;
-}
-
-.markdown h3 {
-  @apply text-2xl font-medium mt-8 mb-4 leading-snug;
-}
-
-.markdown h4 {
-  @apply text-xl font-medium mt-6 mb-3 leading-snug;
-}
-
-.markdown p {
-  @apply my-6 leading-relaxed;
-}
-
-.markdown ul,
-.markdown ol {
-  @apply my-6 list-disc pl-6;
-}
-
-.markdown li {
-  @apply my-2;
-}
-
-.markdown blockquote {
-  @apply pl-4 border-l-4 border-gray-200 text-gray-700 italic my-6;
-}
-
-.markdown a {
-  @apply text-blue-600 hover:text-blue-800 underline;
-}
-
-.markdown strong {
-  @apply font-semibold;
-}
-
-.markdown table {
-  @apply w-full my-6 border-collapse;
-}
-
-.markdown th,
-.markdown td {
-  @apply border border-gray-300 px-4 py-2;
-}
-
-.markdown th {
-  @apply bg-gray-50 font-semibold;
-}
-
-/* Common image container styles */
-.markdown :global(.image-container) {
-  @apply flex justify-center w-full my-8;
-}
-
-.markdown :global(.image-container.full) img {
-  @apply w-full;
-}
-
-.markdown :global(.image-container.half) img {
-  @apply w-1/2;
 }
 
 /* Grid Layouts */

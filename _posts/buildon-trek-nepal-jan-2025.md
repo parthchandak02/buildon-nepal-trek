@@ -280,8 +280,8 @@ But this day held a special surprise: a traditional Nepali wedding ceremony for 
 <p class="image-caption">The groom's procession making its way through the village</p>
 
 *Richa:* Watching the women of the village get Morgan ready, surrounding her with their love and traditions, was incredible. Meanwhile, the other women in our trek group and I had *mehendi* (henna) applied to our hands and dressed up in beautiful traditional attire. Sharing in the joy and festivity as we celebrated Morgan and Dave's special day was truly unforgettable, and I felt grateful to be part of this experience.
-<div style="display: flex; justify-content: center; width: 100%;">
-  <img src="/assets/blog/buildon-trek-nepal-jan-2025/richa-malaika-wedding-kids.jpg" alt="Richa and Malaika with kids at the wedding" style="width: 100%; height: auto;" />
+<div class="single-image">
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/richa-malaika-wedding-kids.jpg" alt="Richa and Malaika with kids at the wedding" />
 </div>
 <p class="image-caption">Wedding celebrations with the kids and our team</p>
 
@@ -297,15 +297,15 @@ But this day held a special surprise: a traditional Nepali wedding ceremony for 
 
 Our last morning of construction began with what had become a cherished ritual – yoga at dawn. The number of villagers joining us had grown each day, a beautiful testament to the bonds we'd formed. The crisp morning air was filled with a mix of excitement and nostalgia, knowing this would be our final day of building.
 
-<div style="display: flex; justify-content: center; width: 100%;">
-  <img src="/assets/blog/buildon-trek-nepal-jan-2025/yoga-lion-roar.gif" alt="Sunrise yoga session" style="width: 100%; height: auto;" />
+<div class="single-image">
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/yoga-lion-roar.gif" alt="Sunrise yoga session" />
 </div>
 <p class="image-caption">Our largest yoga session yet, with villagers joining in growing numbers</p>
 
 *Parth*: What made this final day even more special was an unexpected surge of young energy. Sagar and his classmates, having spread word about our project to neighboring schools, arrived with their entire 8th, 9th, and 10th grade classes to help with construction. Their presence not only accelerated our work but also symbolized the project's ripple effect throughout the community - these students weren't just building a school, they were building their own future.
 
-<div style="display: flex; justify-content: center; width: 100%;">
-  <img src="/assets/blog/buildon-trek-nepal-jan-2025/buildon-cheer-day-3.jpg" alt="buildOn team cheering" style="width: 100%; height: auto;" />
+<div class="single-image">
+  <img src="/assets/blog/buildon-trek-nepal-jan-2025/buildon-cheer-day-3.jpg" alt="buildOn team cheering" />
 </div>
 <p class="image-caption">buildOn team's enthusiastic spirit on day three</p>
 
