@@ -2,61 +2,126 @@
   @apply prose prose-lg prose-slate max-w-none;
 }
 
+/* Base Image Styles */
 .markdown img {
-  @apply rounded-lg shadow-lg w-full h-auto object-cover my-8;
+  @apply rounded-lg shadow-lg w-full h-auto object-cover cursor-pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin: 0;
 }
 
-/* Common image container styles */
-.markdown :global(.image-container) {
-  @apply flex justify-center w-full my-8;
+/* Image Container Base Styles */
+.markdown :global(.single-image),
+.markdown :global(.smart-gallery) {
+  @apply my-12; /* Consistent 3rem margin top and bottom */
 }
 
-.markdown :global(.image-container.full) img {
-  @apply w-full;
+/* Single Image Container */
+.markdown :global(.single-image) {
+  @apply flex flex-col items-center;
 }
 
-.markdown :global(.image-container.half) img {
+.markdown :global(.single-image.half-width img) {
   @apply w-1/2;
 }
 
-/* Grid Layouts */
-.markdown :global(.grid),
-.markdown :global(.grid-4),
-.markdown :global(.grid-3) {
+/* Smart Gallery Grid */
+.markdown :global(.smart-gallery) {
   display: grid;
   gap: 1.5rem;
-  margin: 2rem 0;
+  grid-template-columns: repeat(12, 1fr);
 }
 
-.markdown :global(.grid) {
-  grid-template-columns: repeat(2, 1fr);
+/* Smart Gallery Layouts */
+.markdown :global(.smart-gallery:has(> :only-child)) > * {
+  grid-column: span 12;
 }
 
-.markdown :global(.grid-3) {
-  grid-template-columns: repeat(3, 1fr);
+.markdown :global(.smart-gallery:has(> :nth-child(2):last-child)) > * {
+  grid-column: span 6;
 }
 
-.markdown :global(.grid-4) {
-  grid-template-columns: repeat(4, 1fr);
+.markdown :global(.smart-gallery:has(> :nth-child(3):last-child)) {
+  grid-template-rows: auto auto;
 }
 
-/* Flexible Grid Layout */
-.markdown :global(.grid-flex) {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1.5rem;
-  margin: 2rem 0;
+.markdown :global(.smart-gallery:has(> :nth-child(3):last-child)) > *:first-child {
+  grid-column: span 12;
 }
 
-.markdown :global(.grid-flex img) {
-  margin: 0;
-  width: 100%;
-  height: auto;
+.markdown :global(.smart-gallery:has(> :nth-child(3):last-child)) > *:not(:first-child) {
+  grid-column: span 6;
+}
+
+.markdown :global(.smart-gallery:has(> :nth-child(4):last-child)) > * {
+  grid-column: span 6;
+}
+
+.markdown :global(.smart-gallery:has(> :nth-child(5):last-child)) > *:first-child {
+  grid-column: span 8;
+  grid-row: span 2;
+}
+
+.markdown :global(.smart-gallery:has(> :nth-child(5):last-child)) > *:not(:first-child) {
+  grid-column: span 4;
+}
+
+.markdown :global(.smart-gallery:has(> :nth-child(6):last-child)) > * {
+  grid-column: span 4;
+}
+
+.markdown :global(.smart-gallery:has(> :nth-child(7))) > *:nth-child(3n+1) {
+  grid-column: span 6;
+}
+
+.markdown :global(.smart-gallery:has(> :nth-child(7))) > *:nth-child(3n+2),
+.markdown :global(.smart-gallery:has(> :nth-child(7))) > *:nth-child(3n) {
+  grid-column: span 3;
 }
 
 /* Image Captions */
 .markdown :global(.image-caption) {
-  @apply text-center text-sm text-gray-600 mt-2 mb-8;
+  @apply text-center text-sm text-gray-600 mt-2;
+}
+
+/* Hover Effects */
+@media (hover: hover) {
+  .markdown img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    z-index: 10;
+  }
+}
+
+/* Modal Styles */
+.markdown :global(.image-modal) {
+  @apply fixed inset-0 bg-black/90 hidden justify-center items-center z-50 p-5 cursor-zoom-out;
+}
+
+.markdown :global(.image-modal.active) {
+  @apply flex;
+  animation: fadeIn 0.3s ease;
+}
+
+.markdown :global(.image-modal img) {
+  @apply max-w-[90%] max-h-[90vh] object-contain m-0 rounded-lg shadow-lg;
+  animation: zoomIn 0.3s ease;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes zoomIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 
 /* Typography */
@@ -112,4 +177,137 @@
 
 .markdown th {
   @apply bg-gray-50 font-semibold;
+}
+
+/* Common image container styles */
+.markdown :global(.image-container) {
+  @apply flex justify-center w-full my-8;
+}
+
+.markdown :global(.image-container.full) img {
+  @apply w-full;
+}
+
+.markdown :global(.image-container.half) img {
+  @apply w-1/2;
+}
+
+/* Grid Layouts */
+.markdown :global(.grid),
+.markdown :global(.grid-4),
+.markdown :global(.grid-3) {
+  display: grid;
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+/* Basic grids with fixed columns */
+.markdown :global(.grid) {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.markdown :global(.grid-3) {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.markdown :global(.grid-4) {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+/* Advanced Image Layouts */
+.markdown :global(.gallery) {
+  display: grid;
+  gap: 1.5rem;
+  margin: 2rem 0;
+  grid-template-columns: repeat(12, 1fr);
+}
+
+/* Full width single image */
+.markdown :global(.gallery.single) > * {
+  grid-column: span 12;
+}
+
+/* Two equal width images */
+.markdown :global(.gallery.duo) > * {
+  grid-column: span 6;
+}
+
+/* Three equal width images */
+.markdown :global(.gallery.trio) > * {
+  grid-column: span 4;
+}
+
+/* Featured layout - one large, two small */
+.markdown :global(.gallery.featured) > *:first-child {
+  grid-column: span 8;
+}
+
+.markdown :global(.gallery.featured) > *:not(:first-child) {
+  grid-column: span 4;
+}
+
+/* Split layout - one large, three small */
+.markdown :global(.gallery.split) > *:first-child {
+  grid-column: span 6;
+  grid-row: span 2;
+}
+
+.markdown :global(.gallery.split) > *:not(:first-child) {
+  grid-column: span 6;
+}
+
+/* Mosaic layout - various sizes */
+.markdown :global(.gallery.mosaic) > *:nth-child(3n+1) {
+  grid-column: span 8;
+}
+
+.markdown :global(.gallery.mosaic) > *:nth-child(3n+2),
+.markdown :global(.gallery.mosaic) > *:nth-child(3n) {
+  grid-column: span 4;
+}
+
+/* Panorama layout - wide image with smaller ones below */
+.markdown :global(.gallery.panorama) > *:first-child {
+  grid-column: span 12;
+}
+
+.markdown :global(.gallery.panorama) > *:not(:first-child) {
+  grid-column: span 3;
+}
+
+/* Flexible Grid Layout */
+.markdown :global(.grid-flex) {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.markdown :global(.grid-flex img) {
+  margin: 0;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+/* Ensure all images maintain aspect ratio */
+.markdown :global(.smart-gallery img) {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Add hover effect for better interaction */
+.markdown :global(.smart-gallery img) {
+  transition: transform 0.3s ease;
+}
+
+.markdown :global(.smart-gallery img:hover) {
+  transform: scale(1.02);
+}
+
+/* Remove extra margins from images inside containers */
+.markdown :global(.smart-gallery img),
+.markdown :global(.single-image img) {
+  margin: 0;
 }
