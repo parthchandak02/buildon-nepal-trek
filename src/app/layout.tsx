@@ -27,6 +27,7 @@ export const metadata: Metadata = {
         type: 'image/png',
       }
     ],
+    shortcut: '/favicon/favicon.ico',
     apple: {
       url: '/favicon/apple-touch-icon.png',
       sizes: '180x180',
@@ -36,10 +37,35 @@ export const metadata: Metadata = {
       {
         rel: 'mask-icon',
         url: '/favicon/safari-pinned-tab.svg',
+        color: '#5bbad5'
       },
+      {
+        rel: 'apple-touch-icon',
+        sizes: '180x180',
+        url: '/favicon/apple-touch-icon.png',
+      },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '192x192',
+        url: '/favicon/android-chrome-192x192.png',
+      },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '512x512',
+        url: '/favicon/android-chrome-512x512.png',
+      }
     ],
   },
   manifest: '/favicon/site.webmanifest',
+  applicationName: 'BuildOn Trek Nepal',
+  themeColor: '#ffffff',
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: 'default',
+    title: 'BuildOn Trek Nepal',
+  },
   openGraph: {
     title: 'BuildOn Trek Nepal - Schoolhouse Sherpas',
     description: 'A journey of building a school in Basanta, Nepal with BuildOn and the local community.',
@@ -68,6 +94,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={inter.variable}>
+      <head>
+        <meta name="msapplication-TileColor" content="#ffffff" />
+        <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
+        <link rel="shortcut icon" href="/favicon/favicon.ico" />
+      </head>
       <body className="min-h-screen bg-white font-sans">
         <div className="mx-auto max-w-6xl px-5">
           {children}
