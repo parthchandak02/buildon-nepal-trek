@@ -76,7 +76,7 @@ The joy and gratitude of the school children touched our hearts deeply. They had
 </div>
 <p class="image-caption">Interacting with the school children and watching them perform traditional dances</p>
 
-Later that night, we were introduced to the dedicated buildOn management team, including Trek Coordinator, Aradhana (Anu) Chaudhary, and Deputy Trek Director, Jharana Bam. Learning that this would be buildOn's 419th school in Nepal and that some team members had participated in over 100 treks gave us a sense of the program's incredible scale and impact.
+Later that night, we were introduced to the dedicated buildOn management team, including Trek Coordinator, Ardahana (Anu) Chaudhary, and Deputy Trek Director, Jharana Bam. Learning that this would be buildOn's 419th school in Nepal and that some team members had participated in over 100 treks gave us a sense of the program's incredible scale and impact.
 
 ## Day 3: Welcome to Basanta
 
@@ -386,7 +386,7 @@ Our propeller plane from Dhangadi to Kathmandu offered a parting gift – breath
 The school we helped build in Basanta is more than just bricks and cement. It shows what can happen when people from different places work together. It's a promise of better things to come. We'll never forget what we saw and learned there.
 This journey would not have been possible without our incredible team of Schoolhouse Sherpas: Akhil Shukla, Bree Cave, David Sang, Dean Ruff, Dhruv Baijal, Esha Desai, Jeff Nasser, Karim Khairaz, Malaika Vesavevala, Morgan Dickerson, Nikhil Agarwal, Niti Parekh, Suchi Jatia, Tanu Rathi, and Yaquta Bootwala. Each member brought their unique strengths and perspectives, making our team truly special. Together, we not only reached our fundraising goal but also created lasting bonds with each other and the community of Basanta.
 
-We are also deeply grateful to the buildOn Nepal team: Santosh Mahato (Trek Leader), Aradhana (Anu) Chaudhary (Trek Coordinator), and Jharana Bam (Deputy Trek Director). Special thanks to Rajkumari Mahato (Board – buildOn Nepal), Runam and Madan (Translators), Rajkumar (Field Coordinator), Shreedevi and Lila (Cooks), Sanjay (Bus Driver), and Tekraj Guruji (Yoga Instructor). Their dedication and expertise made our journey well-organized and seamless from start to finish.
+We are also deeply grateful to the buildOn Nepal team: Santosh Mahato (Trek Leader), Ardahana (Anu) Chaudhary (Trek Coordinator), and Jharana Bam (Deputy Trek Director). Special thanks to Rajkumari Mahato (Board – buildOn Nepal), Runam and Madan (Translators), Rajkumar (Field Coordinator), Shreedevi and Lila (Cooks), Sanjay (Bus Driver), and Tekraj Guruji (Yoga Instructor). Their dedication and expertise made our journey well-organized and seamless from start to finish.
 
 <div class="smart-gallery">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/team-start.jpg" alt="Team at the start of the journey" />
