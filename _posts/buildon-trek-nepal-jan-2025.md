@@ -14,8 +14,8 @@ ogImage:
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/team-final-1.jpg" alt="Team celebration" />
 </div>
 
-# Schoolhouse Sherpas - A buildOn Trek
-**Basanta, Nepal** *(January 4 - 10, 2025)*
+# Schoolhouse Sherpas: A buildOn Trek
+**Basanta, Nepal** *(January 2025)*
 
 *By Parth Chandak and Richa Jatia*
 
@@ -71,15 +71,10 @@ That afternoon, we visited a completed buildOn school nearby - a visit filled th
 The joy and gratitude of the school children touched our hearts deeply. They had prepared special performances to welcome us - their small faces beaming with excitement as they danced and sang traditional songs. It was a beautiful demonstration of how a school can become the heart of a community, nurturing not just education but also cultural pride and creativity.
 
 <div class="smart-gallery">
-  <div>
-    <img src="/assets/blog/buildon-trek-nepal-jan-2025/children-performance.gif" alt="Children performing traditional dances" />
-    <p class="image-caption">Children performing traditional dances to welcome us</p>
-  </div>
-  <div>
-    <img src="/assets/blog/buildon-trek-nepal-jan-2025/richa-first-school-all-kids.jpg" alt="Interacting with the school children" />
-    <p class="image-caption">Interacting with the school children - they all spoke Hindi!</p>
-  </div>
+<img src="/assets/blog/buildon-trek-nepal-jan-2025/richa-first-school-all-kids.jpg" alt="Interacting with the school children" />
+<img src="/assets/blog/buildon-trek-nepal-jan-2025/children-performance.gif" alt="Children performing traditional dances" />
 </div>
+<p class="image-caption">Interacting with the school children and watching them perform traditional dances</p>
 
 Later that night, we were introduced to the dedicated buildOn management team, including Trek Coordinator, Ardahana (Anu) Chaudhary, and Deputy Trek Director, Jharana Bam. Learning that this would be buildOn's 419th school in Nepal and that some team members had participated in over 100 treks gave us a sense of the program's incredible scale and impact.
 
@@ -139,7 +134,7 @@ Later that night, we were introduced to the dedicated buildOn management team, i
 
 *Parth*: As the sun set, we gathered for our first dinner with the family. The aroma of freshly cooked daal bhat filled the house as we sat cross-legged on the floor. Mr. Tharu's daughter-in-law had prepared a feast - steaming rice, yellow lentil soup, and local vegetable curry. We were surprised to learn that the family only ate two meals a day, which explained the generous portions they served us. The food was incredibly delicious, but we had to politely ask them to reduce our portions - their usual servings were almost twice what we could eat\! Prince showed me how to mix everything together with my hands, the traditional way of eating. The simple meal tasted extraordinary, made special by the family's hospitality and the stories we shared despite our language differences.
 
-<div class="single-image half-width">
+<div class="single-image" style="--image-width: 50%;">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/daal-bhat.jpg" alt="Traditional dinner" />
   <p class="image-caption">Enjoying traditional Daal Bhat with our host family</p>
 </div>
@@ -163,7 +158,7 @@ Our days in the community began with yoga at 6AM sharp led by a guru from the bu
 
 We started our first construction day with buildOn's energetic morning cheer, our voices echoing through the village as we prepared to start the digging for the site of the 419th school in Nepal.
 
-<div class="single-image half-width">
+<div class="single-image" style="--image-width: 75%;">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/buildon-cheer-day-1.gif" alt="Buildon Cheer Day 1" />
   <p class="image-caption">Our loud cheer</p>
 </div>
@@ -188,7 +183,7 @@ Team Two focused on preparing the rebar (steel rods) that would reinforce the co
 
 Team Three was responsible for sifting sand and mixing cement. This was perhaps the most rhythmic work - the steady motion of pushing sand through mesh screens, the methodical mixing of cement with water and aggregate. The villagers taught us their traditional mixing techniques, which required no mechanical equipment but depended entirely on consistency and teamwork.
 
-<div class="single-image half-width">
+<div class="single-image">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/sand-sifting.jpg" alt="Sand sifting" />
   <p class="image-caption">Learning how to sift sand</p>
 </div>
@@ -236,18 +231,18 @@ Team Three was responsible for sifting sand and mixing cement. This was perhaps 
 <div class="smart-gallery">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/richa-girls-dance.gif" alt="Girls dancing" />
 </div>
-<p class="image-caption">Dancing and bonding with the village children</p>
+<p class="image-caption">Dancing and bonding with the children</p>
 
-## Day 5: Building Foundations & Dreams
+## Day 5: Building Foundations and Dreams
 
 <div class="single-image">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/yoga-2.jpg" alt="Morning yoga practice" />
-  <p class="image-caption">More villagers joined our morning yoga on our second day of building.</p>
+  <p class="image-caption">More villagers joined morning yoga on our second day of building</p>
 </div>
 
-<div class="single-image half-width">
+<div class="single-image" style="--image-width: 75%;">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/buildon-cheer-day-2.gif" alt="buildOn team cheering" />
-  <p class="image-caption">The buildOn cheer felt stronger on our second day, with more villagers joining in as they learned the words and movements.</p>
+  <p class="image-caption">The buildOn cheer felt stronger, with more villagers joining in as they learned the words and movements</p>
 </div>
 
 We began work early in the morning. Some teams formed human chains that snaked across the construction site, passing rocks and pans of sand from one person to another. This method not only made the work faster but brought everyone together - buildOn team members, villagers, and even curious children who wanted to help. The chains became a living symbol of community spirit, with songs and laughter making the heavy loads feel lighter.
@@ -268,7 +263,7 @@ We began work early in the morning. Some teams formed human chains that snaked a
 
 <div class="single-image">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/digging-parth-1.jpg" alt="Parth digging at the construction site" />
-  <p class="image-caption">Continuing the foundation trenches</p>
+  <p class="image-caption">Continuing work on the foundation trenches</p>
 </div>
 
 *Richa*: In just two days, we had made incredible progress. The site had been dug, the foundations were laid with a mix of cement and stone, and rebar had been placed in some of the holes.
@@ -356,7 +351,7 @@ That evening was filled with emotional exchanges of gifts. We presented our host
 
 <div class="single-image half-width">
   <img src="/assets/blog/buildon-trek-nepal-jan-2025/polaroid-moment.jpg" alt="Team photo with Polaroid camera" />
-  <p class="image-caption">Capturing memories with a Polaroid camera</p>
+  <p class="image-caption">Capturing memories</p>
 </div>
 
 *Parth*: My final conversation with Sagar was particularly moving. His bright spirit and technological aptitude had shown me that potential knows no geographical bounds. In him, I saw the future that buildOn was helping to create.

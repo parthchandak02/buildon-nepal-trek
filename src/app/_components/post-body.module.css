@@ -12,7 +12,7 @@
 /* Image Container Base Styles */
 .markdown :global(.single-image),
 .markdown :global(.smart-gallery) {
-  @apply my-12; /* Consistent 3rem margin top and bottom */
+  @apply my-12;
 }
 
 /* Single Image Container */
@@ -20,8 +20,10 @@
   @apply flex flex-col items-center;
 }
 
-.markdown :global(.single-image.half-width img) {
-  @apply w-1/2;
+/* Single image width control using CSS variable */
+.markdown :global(.single-image img) {
+  width: var(--image-width, 100%);
+  max-width: 100%;
 }
 
 /* Smart Gallery Grid */
@@ -38,10 +40,6 @@
 
 .markdown :global(.smart-gallery:has(> :nth-child(2):last-child)) > * {
   grid-column: span 6;
-}
-
-.markdown :global(.smart-gallery:has(> :nth-child(3):last-child)) {
-  grid-template-rows: auto auto;
 }
 
 .markdown :global(.smart-gallery:has(> :nth-child(3):last-child)) > *:first-child {
