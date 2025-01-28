@@ -24,49 +24,34 @@
 .markdown :global(.grid-4),
 .markdown :global(.grid-3) {
   display: grid;
-  grid-template-columns: 1fr;
   gap: 1.5rem;
   margin: 2rem 0;
 }
 
-@media (min-width: 768px) {
-  .markdown :global(.grid) {
-    grid-template-columns: repeat(2, 1fr);
-  }
+.markdown :global(.grid) {
+  grid-template-columns: repeat(2, 1fr);
+}
 
-  .markdown :global(.grid-3) {
-    grid-template-columns: repeat(3, 1fr);
-  }
+.markdown :global(.grid-3) {
+  grid-template-columns: repeat(3, 1fr);
+}
 
-  .markdown :global(.grid-4) {
-    grid-template-columns: repeat(4, 1fr);
-  }
+.markdown :global(.grid-4) {
+  grid-template-columns: repeat(4, 1fr);
 }
 
 /* Flexible Grid Layout */
 .markdown :global(.grid-flex) {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 1.5rem;
   margin: 2rem 0;
 }
 
-.markdown :global(.grid-flex > *) {
-  flex: 1 1 300px;
-  min-width: 300px;
-  max-width: 100%;
-  height: fit-content;
-}
-
 .markdown :global(.grid-flex img) {
   margin: 0;
-}
-
-@media (max-width: 768px) {
-  .markdown :global(.grid-flex > *) {
-    flex: 1 1 100%;
-    width: 100%;
-  }
+  width: 100%;
+  height: auto;
 }
 
 /* Image Captions */
