@@ -1,6 +1,7 @@
 import "./globals.css";
 import { Inter } from "next/font/google";
 import { Metadata } from 'next';
+import { SITE_DESCRIPTION, SITE_TITLE, SITE_URL } from '@/lib/constants';
 
 const inter = Inter({
   subsets: ["latin"],
@@ -10,10 +11,10 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | BuildOn Trek Nepal',
-    default: 'BuildOn Trek Nepal - Schoolhouse Sherpas',
+    template: `%s | ${SITE_TITLE}`,
+    default: `${SITE_TITLE} - Schoolhouse Sherpas`,
   },
-  description: 'A journey of building a school in Basanta, Nepal with BuildOn and the local community.',
+  description: SITE_DESCRIPTION,
   icons: {
     icon: [
       {
@@ -59,18 +60,18 @@ export const metadata: Metadata = {
     ],
   },
   manifest: '/favicon/site.webmanifest',
-  applicationName: 'BuildOn Trek Nepal',
+  applicationName: SITE_TITLE,
   themeColor: '#ffffff',
   appleWebApp: {
     capable: true,
     statusBarStyle: 'default',
-    title: 'BuildOn Trek Nepal',
+    title: SITE_TITLE,
   },
   openGraph: {
-    title: 'BuildOn Trek Nepal - Schoolhouse Sherpas',
-    description: 'A journey of building a school in Basanta, Nepal with BuildOn and the local community.',
-    url: 'https://buildon-nepal-trek.vercel.app',
-    siteName: 'BuildOn Trek Nepal',
+    title: `${SITE_TITLE} - Schoolhouse Sherpas`,
+    description: SITE_DESCRIPTION,
+    url: SITE_URL,
+    siteName: SITE_TITLE,
     images: [
       {
         url: '/assets/blog/buildon-trek-nepal-jan-2025/team-start.jpg',

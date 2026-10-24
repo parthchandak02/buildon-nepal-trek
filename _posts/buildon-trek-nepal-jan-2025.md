@@ -5,7 +5,6 @@ coverImage: '/assets/blog/buildon-trek-nepal-jan-2025/team-final-1.jpg'
 date: '2025-01-25T17:00:00.000Z'
 author:
   name: 'Parth Chandak and Richa Jatia'
-  picture: '/assets/blog/authors/parth.jpg'
 ogImage:
   url: '/assets/blog/buildon-trek-nepal-jan-2025/team-final-1.jpg'
 ---
