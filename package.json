@@ -11,7 +11,7 @@
     "classnames": "^2.5.1",
     "date-fns": "^3.6.0",
     "gray-matter": "^4.0.3",
-    "next": "15.0.8",
+    "next": "15.5.28",
     "react": "19.0.9",
     "react-dom": "19.0.9",
     "remark": "^15.0.1",
